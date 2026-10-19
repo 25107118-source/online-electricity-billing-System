@@ -1,0 +1,6 @@
+{
+  "name": "Online Electricity Billing System",
+  "description": "Full-stack municipal electricity billing and consumer management system with progressive tariff calculations, meter readings, billing history, and payment recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
